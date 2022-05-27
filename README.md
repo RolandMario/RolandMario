@@ -1,6 +1,6 @@
 ### Hi there, I am Roland Mario! 👋
 
-- 🔭 I’m currently working on TrackMoney App(An accounting system App)
+- 🔭 I’m currently working on Crypto Jobs app
 - 🌱 I’m currently learning TypeScript and CI/CD
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with CI/CD Github Actions
